@@ -1,5 +1,6 @@
 /**
- In a country in which people only want boys every family continues to have children until they have a boy. If they have a girl, they have another child. If they have a boy, they stop. What is the proportion of boys to girls in the country?
+ In a country in which people only want boys every family continues to have children until they have a boy. 
+ If they have a girl, they have another child. If they have a boy, they stop. What is the proportion of boys to girls in the country?
 */
 
 
@@ -38,3 +39,5 @@ while(genaNum) {
   girlNum = 0;
   genaNum--;
 }
+
+console.log("conclusion: the proportion of boys to girls is 1:1");
